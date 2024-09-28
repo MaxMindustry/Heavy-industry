@@ -8,7 +8,7 @@ name: "frio"
 author: "You"
 
 #the fully qualified main class of the mod
-main: "frio.frioJavaMod"
+main: "frio.frioMod"
 
 #the mod description as seen in the mod dialog
 description: "Ice planet?"
